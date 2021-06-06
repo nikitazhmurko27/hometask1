@@ -1,0 +1,13 @@
+title: -push
+---
+author: Nikita Zhmurko "the Biggest LFC fan"
+---
+body:
+
+Update remote refs along with associated objects
+
+The syntax for the ***push*** command is as follows:
+
+> $ **git push** <remote\> <branch\>
+---
+pub_date: 2021-06-05

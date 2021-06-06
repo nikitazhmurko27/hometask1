@@ -1,0 +1,15 @@
+title: -commit
+---
+author: Nikita Zhmurko "the Biggest LFC fan"
+---
+body:
+
+Record changes to the repository
+
+The syntax for the ***commit*** command is as follows:
+
+> $ **git commit -m** 'your commit comment'
+
+---
+pub_date: 2021-06-05
+

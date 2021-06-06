@@ -1,0 +1,13 @@
+title: -status
+---
+author: Nikita Zhmurko "the Biggest LFC fan"
+---
+body:
+
+Show the working tree status
+
+The syntax for the ***status*** command is as follows:
+
+> $ **git status**
+---
+pub_date: 2021-06-05

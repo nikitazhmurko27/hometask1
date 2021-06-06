@@ -1,0 +1,13 @@
+title: -pwd
+---
+author: Nikita Zhmurko "the Biggest LFC fan"
+---
+body:
+
+The ***pwd*** command stands for print working directory. It is one of the most basic and frequently used commands in Linux. When invoked the command prints the complete path of the current working directory.
+
+The syntax for the ***pwd*** command is as follows:
+
+> $ **pwd**
+---
+pub_date: 2021-06-05

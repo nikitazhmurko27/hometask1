@@ -1,0 +1,18 @@
+title: -checkout
+---
+author: Nikita Zhmurko "the Biggest LFC fan"
+---
+body:
+
+Switch branches or restore working tree files
+
+The syntax for the ***checkout*** command is as follows:
+
+> $ **git checkout** <branch\>
+
+Specifying ***-b*** causes a new branch to be created.
+
+> $ **git checkout -b** <branch\>
+---
+pub_date: 2021-06-05
+

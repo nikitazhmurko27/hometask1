@@ -1,0 +1,13 @@
+title: -mkdir
+---
+author: Nikita Zhmurko "the Biggest LFC fan"
+---
+body:
+
+In Linux systems, you can create new directories either from the command line or with the help of your desktop’s file manager. The command that allows you to create directories (also known as folders) is mkdir.
+
+The syntax for the ***mkdir*** command is as follows:
+
+> $ **mkdir** newdir
+---
+pub_date: 2021-06-05

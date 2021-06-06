@@ -1,0 +1,13 @@
+title: -ls
+---
+author: Nikita Zhmurko "the Biggest LFC fan"
+---
+body:
+
+The ***ls*** command lists files and directories within the file system, and shows detailed information about them. It is a part of the GNU core utilities package which is installed on all Linux distributions.
+
+The syntax for the ***ls*** command is as follows:
+
+> $ **ls**
+---
+pub_date: 2021-06-05

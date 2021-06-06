@@ -1,0 +1,13 @@
+title: -cd
+---
+author: Nikita Zhmurko "the Biggest LFC fan"
+---
+body:
+
+The ***cd*** (“change directory”) command is used to change the current working directory in Linux and other Unix-like operating systems. It is one of the most basic and frequently used commands when working on the Linux terminal.
+
+The syntax for the cd command is as follows:
+
+> $ **cd** /directory/
+---
+pub_date: 2021-06-05
